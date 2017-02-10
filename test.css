@@ -1,0 +1,621 @@
+html, body {
+	width: 100%;
+	height: 100%;
+    margin: 0;
+    padding: 0;
+}
+@media handheld and (max-width: 481px) and (orientation: portrait) {
+  html,body{width:100%;overflow-x:hidden;}
+}
+
+@media handheld and (max-width: 380px) and (orientation: portrait) {
+  html,body{width:100%;overflow-x:hidden;}
+}
+.page-scroll .pull-left {
+	  font-family: 'GrandHotelRegular';
+		font-size: 35px;
+		margin-left: 5px;
+		color: grey;
+}
+
+.page-scroll .btn-default([disabled]):hover {
+}
+h2 {
+  text-align: center;
+  /*font-family: 'Open Sans', sans-serif;*/
+}
+
+.row {
+  display: flex;
+}
+
+html {
+  overflow-x: hidden;
+}
+@media (max-width: @screen-xs) {
+    .container{font-size: 10px;}
+}
+
+svg {
+  display: block;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  border: 0 0 0 0;
+  display: center;
+}
+
+.navbar-default {
+  background-color: black;
+}
+
+#about p {
+  display: block;
+  display: center;
+  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+	position: absolute;
+  /*letter-spacing: .5px;*/
+}
+#about h3 {
+  color: black;
+	font-size: 20px;
+	font-family: 'Open Sans', sans-serif;
+}
+#about {
+	position:relative;
+}
+
+#home {
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+#home p {
+  display: block;
+  /*display: center;*/
+  font-size: 30px;
+  font-family: 'Open Sans', sans-serif;
+  /*letter-spacing: .5px;*/
+}
+#home h1 {
+  margin-left: 30px;
+  font-family: 'GrandHotelRegular';
+}
+#home h3 {
+  margin-top: 5px;
+	font-family: 'GrandHotelRegular';
+}
+#home img {
+  height: 200px;
+  margin-left: 40px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+	margin-bottom: 10px;
+}
+
+.navbar-ex1-collapse {
+  float: right;
+  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+  letter-spacing: .5px;
+
+}
+#contact a {
+  font-size: 6.0vw;
+  letter-spacing: 10px;
+  color: black;
+}
+
+
+#libby img {
+  display: center;
+}
+#contact {
+/*background-color: lightgrey;*/
+padding-top: 8%;
+height: 70%;
+
+}
+#page-top {
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+#case {
+  margin-top: 20%;
+  margin-bottom: 12%;
+}
+
+.page-scroll a {
+  margin-left: -30%;
+  font-size: 40px;
+}
+
+#portfolio h2 {
+font-family: 'GrandHotelRegular';
+display: center;
+font-size: 55px;
+}
+
+.well:after, .well:before {
+      position: absolute;
+      opacity: 0;
+      transition: all 1.0s;
+      -webkit-transition: all 1.0s;
+}
+
+.well {
+	height: 350px;
+	width: 400px;
+}
+
+/*
+.tdtClass img {
+	height: 340px;
+}
+.row .cppe img {
+	height: 300px;
+	width: 100%;
+}
+.row .ny img {
+	height: 340px;
+	width: 100%;
+}
+.nile img {
+	height: 350px;
+	width: 100%;
+}
+.white img {
+	height: 330px;
+}
+.pri img {
+	height: 330px;
+	width: 100%;
+
+}*/
+
+#tdt  {
+  margin-top: 50%;
+}
+span.glyphicon-plus {
+    font-size: 3em;
+    float: right;
+    margin-right: 15%;
+}
+
+.priContainer a {
+  display: center;
+  margin-left: 46%;
+}
+
+#case h3 {
+  text-align: right;
+}
+
+#case {
+  margin-right: 6%;
+}
+#demo {
+  margin-top: 5%;
+  text-align: right;
+  text-justify: inter-word;
+  margin-right: 3%;
+  margin-left: 30%;
+}
+
+#demo .btn-custom {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  font-size: 14px;
+  background-color: white;
+  letter-spacing: .8px;
+  white-space: normal;
+}
+#demo .btn-custom:hover {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  font-size: 14px;
+  background-color: grey;
+  letter-spacing: .8px;
+  white-space: normal;
+}
+h2 {
+  text-align: center;
+  color: black;
+  font-family: 'Open Sans', sans-serif;
+}
+.btn-default([disabled]):hover {
+}
+.btn-custom {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  font-size: 20px;
+  border-color: white;
+  background-color: white;
+  letter-spacing: .8px;
+  margin-left: 1%;
+  margin-right: 1%;
+  white-space: normal;
+}
+.btn-custom:hover {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  font-size: 20px;
+  border-color: grey;
+  background-color: grey;
+  letter-spacing: .8px;
+  white-space: normal;
+}
+.priContainer h1 {
+  color: black;
+  text-align: center;
+  font-size: 65px;
+  font-family: 'Open Sans', sans-serif;
+  margin-top: 10%;
+}
+.priContainer{
+  grid-column-start: 2;
+  grid-column-end: five;
+  grid-row-start: row1-start
+  grid-row-end: 3
+}
+.priContainer .btn-custom {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  font-size: 14px;
+  display: center;
+  border-color: black;
+  background-color: white;
+  letter-spacing: .8px;
+  white-space: normal;
+}
+.priContainer .btn-custom:hover {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  font-size: 14px;
+  display: center;
+  border-color: black;
+  background-color: grey;
+  letter-spacing: .8px;
+  white-space: normal;
+}
+.priContainer .btn-custom {
+  text-align: center;
+}
+.priContainer p {
+  grid-column-start: 2;
+  grid-column-end: five;
+  grid-row-start: row1-start
+  grid-row-end: 3;
+  background-color: white;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.priContainer img {
+  height: 300px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+.priContainer.row img {
+  height: 380px;
+  display: inline-block;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  margin-right: 3%;
+  margin-left: 2%;
+  /*margin-left: 35%;*/
+}
+.priContainer .row {
+  margin-left: 18%;
+}
+.priContainer h1 {
+  color: black;
+  text-align: center;
+  font-size: 65px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+/*NILE CASE STUDY!!!!!!!!!!!!!!!!!!!!!!!s*/
+
+#nileContainer {
+  margin-top: 5%;
+  text-align: right;
+  text-justify: inter-word;
+  margin-right: 3%;
+  margin-left: 30%;
+}
+#north {
+  height: 400px;
+  margin-left: 30%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+
+}
+ #north2 {
+   height: 423px;
+   margin-left: 3%;
+   margin-top: 4%;
+   margin-bottom: 5%;
+}
+.wireF img {
+  margin-left: 20%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+/*START WHITE BULK POWDER CASE STUDY*/
+#case img {
+  height: 300px;
+  margin-bottom: 2px;
+  margin-left: 300px;
+}
+#bulk {
+  height: 400px;
+  margin-left: 30%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+ #bulk1 {
+   height: 423px;
+   margin-left: 5%;
+   margin-top: 5%;
+   margin-bottom: 5%;
+}
+#bulkContent {
+  /*margin-top: 5%;*/
+  text-align: right;
+  text-justify: inter-word;
+  margin-right: 3%;
+  margin-left: 30%;
+}
+#bulkContent .btn-custom {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  font-size: 14px;
+  background-color: white;
+  letter-spacing: .8px;
+  white-space: normal;
+}
+#bulkContent .btn-custom:hover {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  font-size: 14px;
+  background-color: grey;
+  letter-spacing: .8px;
+  white-space: normal;
+}
+.bulkContainer {
+  grid-column-start: 2;
+  grid-column-end: five;
+  grid-row-start: row1-start
+  grid-row-end: 3
+}
+.bulkContainer .btn-custom {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  font-size: 14px;
+  border-color: black;
+  background-color: white;
+  letter-spacing: .8px;
+  white-space: normal;
+}
+.bulkContainer .btn-custom:hover {
+  font-family: 'Open Sans', sans-serif;
+  color: black;
+  font-size: 14px;
+  border-color: black;
+  background-color: grey;
+  letter-spacing: .8px;
+  white-space: normal;
+}
+.bulkContainer a {
+  display: center;
+  margin-left: 46%;
+}
+.bulkContainer p {
+  grid-column-start: 2;
+  grid-column-end: five;
+  grid-row-start: row1-start
+  grid-row-end: 3;
+  background-color: white;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.bulkContainer img {
+  height: 400px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  margin-left: 33%;
+}
+.bulkContainer .row img {
+  height: 380px;
+  display: inline-block;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  margin-right: 3%;
+  margin-left: 2%;
+  /*margin-left: 35%;*/
+}
+.bulkContainer .row {
+  margin-left: 18%;
+}
+
+.bulkContainer h1 {
+  color: black;
+  text-align: center;
+  font-size: 65px;
+  font-family: 'Open Sans', sans-serif;
+  margin-top: 10%;
+}
+/*ART SHANTY PROJECTS!!!!!!!!!!!!!*/
+.images img {
+  height: 400px;
+}
+#case .row-eq-height {
+  margin-left: 5%;
+  margin-right:5%;
+}
+#art {
+  margin-top: 5%;
+  text-align: center;
+  text-justify: inter-word;
+  margin-right: 15%;
+  margin-left: 15%;
+
+}
+#art img {
+  height: 35px;
+  margin-top: 20%;
+}
+#art h3 {
+  text-align: left;
+}
+
+/*PRI SECTION!!!!!!!!!!*/
+
+#permacultureContent {
+  text-align: right;
+  text-justify: inter-word;
+  margin-right: 3%;
+  margin-left: 30%;
+}
+#permaculture {
+  margin-top: 10%;
+  margin-bottom: 12%;
+	margin-left: 5%;
+	font-family: 'Open Sans', sans-serif;
+}
+#permaculture h2 {
+	  font-family: 'GrandHotelRegular';
+		font-size: 40px;
+}
+#permaculture h3 {
+  text-align: left;
+  margin-right: 10%;
+}
+#permaculture .col-md-5 img {
+	height: 600px;
+	margin-right: 3%;
+}
+/*#ny img {
+	height: 300px;
+}*/
+
+#ny .col-md-6 img {
+	height: 300px;
+}
+#ny {
+  margin-top: 10%;
+  margin-bottom: 12%;
+	margin-left: 5%;
+	font-family: 'Open Sans', sans-serif;
+}
+#ny h2 {
+	  font-family: 'GrandHotelRegular';
+		font-size: 40px;
+}
+#ny h3 {
+  text-align: left;
+  margin-right: 10%;
+}
+#ny .col-md-5 img {
+	height: 400px;
+	margin-right: 5%;
+	float: right;
+	margin-top: 10px;
+}
+
+#cppe {
+	margin-top: 10%;
+	margin-bottom: 12%;
+	margin-left: 5%;
+	font-family: 'Open Sans', sans-serif;
+}
+#cppe h2 {
+	  font-family: 'GrandHotelRegular';
+		font-size: 40px;
+}
+#cppe h3 {
+  text-align: left;
+  margin-right: 10%;
+}
+#cppe .col-md-5 img {
+	height: 350px;
+	margin-right: 5%;
+	float: right;
+	margin-top: 20px;
+}
+#cppe .container img {
+	height: 500px;
+	margin-left: 25px;
+}
+#cppe .col-md-6 img {
+	height: 300px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+#cppe .row .col-md-6 img {
+	height: 400px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+#cppe .col-md-4 img {
+	height: 550px;
+	margin-top: 10px;
+	margin-right: 10px;
+}
+#cppe .col-sm-4 img {
+	height: 400px;
+	margin-top: 40px;
+}
+.nyTop img {
+	margin-top: 40px;
+	height: 300px;
+}
+.tdtTop img {
+	margin-top: 40px;
+	height: 500px;
+}
+.bulkTop img {
+	height: 800px;
+}
+#nile {
+  margin-top: 10%;
+  margin-bottom: 12%;
+	margin-left: 5%;
+	font-family: 'Open Sans', sans-serif;
+}
+#nile h2 {
+	  font-family: 'GrandHotelRegular';
+		font-size: 40px;
+}
+#nile h3 {
+  text-align: left;
+  margin-right: 10%;
+}
+#nile .col-md-5 img {
+	height: 300px;
+	margin-right: 3%;
+}
+
+#bd {
+  margin-top: 10%;
+  margin-bottom: 12%;
+}
+#bd h3 {
+  text-align: right;
+  margin-right: 10%;
+}
+
+footer {
+  text-align: center;
+  color: black;
+  font-family: 'Open Sans', sans-serif;
+  display: center;
+}
+figcaption {
+	text-align: center;
+    display:center;
+}

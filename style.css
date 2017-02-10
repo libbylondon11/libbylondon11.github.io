@@ -1,0 +1,407 @@
+.dummy {
+    margin-top: 100%;
+}
+.thumbnail {
+    position: absolute;
+    top: 15px;
+    bottom: 0;
+    left: 15px;
+    right: 0;
+    text-align:center;
+    padding-top:calc(50% - 30px);
+		background-size: cover;
+		background-position:center center;
+	 background-repeat:no-repeat;
+}
+p {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+}
+.navbar-default {
+  background-color: white;
+	font-size: 14px;
+}
+.row {
+border: none !important;
+}
+#about {
+	background-image:url("woadCookingFire.JPG");
+	background-size: cover;
+	background-position:center center;
+ background-repeat:no-repeat;
+ border: none !important;
+}
+#about p, strong {
+	font-size: 18px;
+	color: white;
+}
+#portfolio a {
+    text-decoration: none !important;
+		border: none !important;
+		font-size: 40px;
+
+}
+/*printmaking, art shanty, eco-printing, dye farm, natural dye, papermaking*/
+.naturalDye {
+	position: absolute;
+	top: 15px;
+	bottom: 0;
+	left: 15px;
+	right: 0;
+	text-align:center;
+	background-image:url("images/marigoldcookingfar.jpg");
+  background-size: 135%;
+	background-size: cover;
+	background-position:center center;
+ background-repeat:no-repeat;
+ border: none !important;
+
+}
+
+.dyeFarm {
+    position: absolute;
+    top: 15px;
+    bottom: 0;
+    left: 15px;
+    right: 0;
+    text-align:center;
+		background-image:url("images/dyefarm/teachingDyeClass copy.jpg");
+		background-size: 100%;
+		background-position:center center;
+	 background-repeat:no-repeat;
+	 border: none !important;
+}
+.garden img {
+  height: 400px;
+}
+.prints {
+	position: absolute;
+	top: 15px;
+	bottom: 0;
+	left: 15px;
+	right: 0;
+	text-align:center;
+	background-image:url("images/blackwpine.jpg");
+  background-size: 90%;
+	background-size: cover;
+	background-position:center center;
+ background-repeat:no-repeat;
+ border: none !important;
+
+}
+.textiles {
+    position: absolute;
+    top: 15px;
+    bottom: 0;
+    left: 15px;
+    right: 0;
+    text-align:center;
+		background-image:url("images/IMG_6389.jpg");
+    background-size: 90%;
+		background-position:center center;
+	 background-repeat:no-repeat;
+}
+.shanty {
+    position: absolute;
+    top: 15px;
+    bottom: 0;
+    left: 15px;
+    right: 0;
+    text-align:center;
+		background-image:url("images/shanty.jpg");
+		background-size: 110%;
+		background-position:center center;
+	 background-repeat:no-repeat;
+}
+.paper {
+    position: absolute;
+    top: 15px;
+    bottom: 0;
+    left: 15px;
+    right: 0;
+    text-align:center;
+		background-image:url("images/paperDrying.jpg");
+		background-size: 90%;
+		background-position:center center;
+	 	background-repeat:no-repeat;
+}
+.garden {
+  margin-top: 150px;
+}
+.garden img {
+height: 400px;
+}
+.garden2 img {
+  height: 400px;
+}
+.dye img {
+height: 200px;
+}
+.dye {
+  margin-top: 150px;
+  margin-bottom: 200px;
+}
+
+.woadinpot {
+	position: absolute;
+	top: 15px;
+	bottom: 0;
+	left: 15px;
+	right: 0;
+	text-align:center;
+	background-image:url("images/dyefarm/woadinpotjpg.jpg");
+	background-size: cover;
+  height: 300px;
+	background-position:center center;
+ background-repeat:no-repeat;
+ border: none !important;
+
+}
+.woadDye {
+  height: 300px;
+}
+.marigoldDye {
+	position: absolute;
+	top: 15px;
+	bottom: 0;
+	left: 15px;
+	right: 0;
+	text-align:center;
+	background-image:url("images/dyefarm/woadandmarigolddrying.jpg");
+	background-size: cover;
+  height: 300px;
+	background-position:center center;
+ background-repeat:no-repeat;
+ border: none !important;
+
+}
+.marigoldDye
+{
+  height: 300px;
+}
+.woadflowering {
+	position: absolute;
+	top: 15px;
+	bottom: 0;
+	left: 15px;
+	right: 0;
+	text-align:center;
+	background-image:url("images/dyefarm/Woadplantblooming.jpg");
+	background-size: cover;
+  height: 400px;
+	background-position:center center;
+ background-repeat:no-repeat;
+ border: none !important;
+
+}
+{.woadflowering 
+  height: 300px;
+}
+#about h1 {
+   font-family: 'GrandHotelRegular';
+   font-weight: normal;
+   font-style: normal;
+   font-size: 70px;
+   color: white;
+}
+.home-section h1 {
+	font-family: 'GrandHotelRegular';
+	font-size: 50px;
+	color: black;
+}
+.portfolio-section h1 {
+	font-family: 'GrandHotelRegular';
+	font-size: 50px;
+	color: black;
+	text-align: center;
+	display: center;
+}
+.contact-section h1 {
+	font-family: 'GrandHotelRegular';
+	font-size: 50px;
+	color: black;
+}
+
+
+
+
+.btn-custom {
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+  font-size: 18px;
+	font-style: bold;
+  background-color: transparent;
+  white-space: normal;
+	border-width: .5px;
+	border-color: white;
+}
+.btn-custom:hover {
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+	font-style: bold;
+  font-size: 18px;
+  background-color: transparent;
+  white-space: normal;
+	border-width: .5px;
+	border-color: white;
+}
+#home {
+	background-image:url("tree_bark.png");
+	background-size: cover;
+	background-position:center center;
+ background-repeat:no-repeat;
+ border: none !important;
+}
+#home h4 {
+  margin-top: 20px;
+	font-family: 'GrandHotelRegular';
+	font-size: 32px;
+}
+#home {
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+#home .col-md-3 p {
+	font-size: 16px;
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+#home p {
+	text-align: center;
+  margin-top: 22px;
+	margin-bottom: 10px;
+	font-size: 30px;
+  font-style: bold;
+  color: black;
+}
+
+#home img {
+	height: 200px;
+	margin-top: 10px;
+	margin-bottom: 15px;
+}
+
+#contact {
+	background-color: white;
+}
+.fa .fa-github{
+  height: 200px;
+}
+#linkedin {
+  height: 200px;
+}
+#contact p {
+  text-align: center;
+  margin-top: 25px;
+	margin-bottom: 10px;
+	font-size: 30px;
+  font-style: bold;
+  color: black;
+}
+#cppe h2 {
+	font-family: 'GrandHotelRegular';
+	font-size: 32px;
+	color: black;
+}
+#cppe {
+	margin-top: 10%;
+	margin-bottom: 12%;
+	margin-left: 5%;
+	font-family: 'Open Sans', sans-serif;
+}
+#cppe h3 {
+  text-align: left;
+  margin-right: 10%;
+}
+#cppe .col-md-5 img {
+	height: 350px;
+	margin-right: 5%;
+	float: right;
+	margin-top: 20px;
+}
+#cppe .container img {
+	height: 500px;
+	margin-left: 25px;
+}
+#cppe .col-md-6 img {
+	height: 300px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+#cppe img {
+   display:inline-block;
+   vertical-align:middle;
+}
+
+#cppe .container-bottom img {
+	height: 400px;
+}
+#cppe .bottom img {
+	height: 380px;
+}
+#permaculture .container-bottom img {
+	height: 500px;
+	margin-top: 5px;
+}
+.bwTop img {
+	margin-top: 40px;
+	height: 250px;
+}
+.tdtTop img {
+	margin-top: 40px;
+	height: 450px;
+}
+.bulkTop img {
+	height: 800px;
+}
+#ny .col-md-6 img {
+	height: 300px;
+}
+#ny {
+  margin-top: 10%;
+  margin-bottom: 12%;
+	margin-left: 5%;
+	font-family: 'Open Sans', sans-serif;
+}
+#ny h2 {
+	  font-family: 'GrandHotelRegular';
+		font-size: 40px;
+}
+#ny h3 {
+  text-align: left;
+  margin-right: 10%;
+}
+#ny .col-md-5 img {
+	height: 400px;
+	margin-right: 5%;
+	float: right;
+	margin-top: 10px;
+}
+#permaculture {
+  margin-top: 10%;
+  margin-bottom: 12%;
+	margin-left: 5%;
+	font-family: 'Open Sans', sans-serif;
+}
+#permaculture h2 {
+	  font-family: 'GrandHotelRegular';
+		font-size: 40px;
+}
+#permaculture h3 {
+  text-align: left;
+  margin-right: 10%;
+}
+#permaculture .col-md-5 img {
+	height: 600px;
+	margin-right: 3%;
+}
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
+ figcaption {
+ 	text-align: center;
+     display:center;
+ }
