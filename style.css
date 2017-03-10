@@ -194,7 +194,7 @@ height: 200px;
  border: none !important;
 
 }
-{.woadflowering 
+{.woadflowering
   height: 300px;
 }
 #about h1 {
@@ -218,12 +218,9 @@ height: 200px;
 }
 .contact-section h1 {
 	font-family: 'GrandHotelRegular';
-	font-size: 50px;
+	font-size: 40px;
 	color: black;
 }
-
-
-
 
 .btn-custom {
   font-family: 'Open Sans', sans-serif;
@@ -282,8 +279,9 @@ height: 200px;
 	margin-bottom: 15px;
 }
 
-#contact {
+#events {
 	background-color: white;
+  height: 100px;
 }
 .fa .fa-github{
   height: 200px;
