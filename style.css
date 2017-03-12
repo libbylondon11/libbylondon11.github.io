@@ -243,18 +243,13 @@ height: 200px;
 	font-style: bold;
   background-color: goldenrod;
   white-space: normal;
-	border-width: .5px;
-	border-color: white;
 }
 .btn-custom:hover {
   font-family: 'Open Sans', sans-serif;
   color: white;
 	font-style: bold;
   font-size: 18px;
-  background-color: transparent;
-  white-space: normal;
-	border-width: .5px;
-	border-color: white;
+  background-color: darkgoldenrod;
 }
 #home {
 	background-image:url("tree_bark.png");
@@ -418,5 +413,7 @@ height: 200px;
   float: left;
   font-family: 'Open Sans', sans-serif;
   font-size: 20px;
-
  }
+.events {
+  margin-right: 20px;
+}
