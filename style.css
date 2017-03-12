@@ -400,9 +400,9 @@ height: 200px;
     margin-right: auto;
  }
  figcaption {
- 	text-align: center;
-  display:center;
-  font-family: 'GrandHotelRegular';
+ 	text-align: left;
+  float: left;
+  font-family: 'Open Sans', sans-serif;
   font-size: 20px;
 
  }
