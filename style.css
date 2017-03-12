@@ -341,7 +341,10 @@ height: 200px;
 	margin-top: 10px;
 	margin-bottom: 15px;
 }
-
+#farm {
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
 #events {
 	background-color: white;
   height: 100px;
