@@ -143,7 +143,7 @@ border: none !important;
 }
 
 .garden {
-  margin-top: 150px;
+  margin-top: 20px;
 }
 .event{
   margin-top: 150px;
@@ -189,7 +189,7 @@ height: 200px;
 	left: 15px;
 	right: 0;
 	text-align:center;
-	background-image:url("images/dyefarm/squeezingwoad.jpg");
+	background-image:url("images/dyefarm/squeezingwoad.JPG");
 	background-size: cover;
   height: 300px;
 	background-position:center center;
