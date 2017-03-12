@@ -73,6 +73,9 @@ border: none !important;
 .garden img {
   height: 400px;
 }
+.marigold {
+  margin-top: 150px;
+}
 .prints {
 	position: absolute;
 	top: 15px;
