@@ -143,7 +143,11 @@ border: none !important;
 }
 
 .garden {
-  margin-top: 20px;
+  margin-top: 150px;
+}
+.about {
+  margin-top: 150px;
+  margin-bottom: 50px;
 }
 .event{
   margin-top: 150px;
