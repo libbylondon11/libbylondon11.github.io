@@ -182,14 +182,14 @@ height: 200px;
  border: none !important;
 
 }
-.squeezingwoad {
+.oxidizing {
 	position: absolute;
 	top: 15px;
 	bottom: 0;
 	left: 15px;
 	right: 0;
 	text-align:center;
-	background-image:url("images/dyefarm/squeezingwoad.JPG");
+	background-image:url("images/dyefarm/oxidizing.JPG");
 	background-size: cover;
   height: 300px;
 	background-position:center center;
