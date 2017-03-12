@@ -159,9 +159,11 @@ height: 200px;
 }
 .dye {
   margin-top: 150px;
-  margin-bottom: 200px;
+  margin-bottom: 5px;
 }
-
+.dye1 {
+  margin-bottom: 20px;
+}
 .woadinpot {
 	position: absolute;
 	top: 15px;
