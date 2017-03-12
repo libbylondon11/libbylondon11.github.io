@@ -165,7 +165,7 @@ height: 200px;
   margin-bottom: 5px;
 }
 .dye1 {
-  margin-bottom: 20px;
+  margin-bottom: 60px;
 }
 .woadinpot {
 	position: absolute;
@@ -175,6 +175,21 @@ height: 200px;
 	right: 0;
 	text-align:center;
 	background-image:url("images/dyefarm/woadinpotjpg.jpg");
+	background-size: cover;
+  height: 300px;
+	background-position:center center;
+ background-repeat:no-repeat;
+ border: none !important;
+
+}
+.squeezingwoad {
+	position: absolute;
+	top: 15px;
+	bottom: 0;
+	left: 15px;
+	right: 0;
+	text-align:center;
+	background-image:url("images/dyefarm/wsqueezingwoad.jpg");
 	background-size: cover;
   height: 300px;
 	background-position:center center;
