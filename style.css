@@ -246,6 +246,7 @@ height: 200px;
   font-family: 'Open Sans', sans-serif;
   color: white;
   font-size: 18px;
+  size: 30px;
 	font-style: bold;
   background-color: goldenrod;
   white-space: normal;
@@ -253,6 +254,7 @@ height: 200px;
 .btn-custom:hover {
   font-family: 'Open Sans', sans-serif;
   color: white;
+  size: 30px;
 	font-style: bold;
   font-size: 18px;
   background-color: darkgoldenrod;
