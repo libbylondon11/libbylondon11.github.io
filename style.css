@@ -55,7 +55,6 @@ border: none !important;
 	background-position:center center;
  background-repeat:no-repeat;
  border: none !important;
-
 }
 
 .dyeFarm {
@@ -125,6 +124,21 @@ border: none !important;
 		background-position:center center;
 	 	background-repeat:no-repeat;
 }
+.woad {
+	position: absolute;
+	top: 15px;
+	bottom: 0;
+	left: 15px;
+	right: 0;
+	text-align:center;
+	background-image:url("images/woadpacket.jpg");
+  background-size: 135%;
+	background-size: cover;
+	background-position:center center;
+ background-repeat:no-repeat;
+ border: none !important;
+}
+
 .garden {
   margin-top: 150px;
 }
