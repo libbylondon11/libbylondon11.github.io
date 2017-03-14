@@ -263,7 +263,20 @@ height: 200px;
 	background-position:center center;
  background-repeat:no-repeat;
  border: none !important;
-
+}
+.marigoldEcoprint {
+	position: absolute;
+	top: 15px;
+	bottom: 0;
+	left: 15px;
+	right: 0;
+	text-align:center;
+	background-image:url("images/dyefarm/marigoldecoprint.jpg");
+	background-size: cover;
+  height: 400px;
+	background-position:center center;
+ background-repeat:no-repeat;
+ border: none !important;
 }
 .woadflowering {
   height: 300px;
