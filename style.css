@@ -1,8 +1,8 @@
 .dummy {
     margin-top: 100%;
 }
-.navbar-toggle {
-  background-color: darkblue;
+.navbar-default {
+  background-color: #f8f8f8;
 }
 .thumbnail {
     position: absolute;
@@ -157,13 +157,13 @@ border: none !important;
 
 }
 .garden {
-  margin-top: 50px;
+  margin-top: 75px;
 }
 .garden img {
 height: 400px;
 }
 .garden2 {
-  margin-top: 20px;
+  margin-top: 10px;
 }
 .garden2 img {
   height: 400px;
