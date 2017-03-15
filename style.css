@@ -1,7 +1,9 @@
 .dummy {
     margin-top: 100%;
 }
-
+.navbar-toggle {
+  background-color: darkblue;
+}
 .thumbnail {
     position: absolute;
     top: 15px;
