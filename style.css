@@ -1,6 +1,7 @@
 .dummy {
     margin-top: 100%;
 }
+
 .thumbnail {
     position: absolute;
     top: 15px;
@@ -286,26 +287,26 @@ height: 200px;
   height: 300px;
 }
 #about h1 {
-   font-family: 'GrandHotelRegular';
+   font-family: 'Patrick Hand SC';
    font-weight: normal;
    font-style: normal;
    font-size: 70px;
    color: white;
 }
 .home-section h1 {
-	font-family: 'GrandHotelRegular';
+	font-family: 'Patrick Hand SC';
 	font-size: 50px;
 	color: black;
 }
 .portfolio-section h1 {
-	font-family: 'GrandHotelRegular';
+	font-family: 'Patrick Hand SC';
 	font-size: 50px;
 	color: black;
 	text-align: center;
 	display: center;
 }
 .contact-section h1 {
-	font-family: 'GrandHotelRegular';
+	font-family: 'Patrick Hand SC';
 	font-size: 40px;
 	color: black;
 }
@@ -336,7 +337,7 @@ height: 200px;
 }
 #home h4 {
   margin-top: 20px;
-	font-family: 'GrandHotelRegular';
+	font-family: 'Patrick Hand SC';
 	font-size: 32px;
 }
 #home {
@@ -386,7 +387,7 @@ height: 200px;
   color: black;
 }
 #cppe h2 {
-	font-family: 'GrandHotelRegular';
+	font-family: 'Patrick Hand SC';
 	font-size: 32px;
 	color: black;
 }
@@ -451,7 +452,7 @@ height: 200px;
 	font-family: 'Open Sans', sans-serif;
 }
 #ny h2 {
-	  font-family: 'GrandHotelRegular';
+	  font-family: 'Patrick Hand SC';
 		font-size: 40px;
 }
 #ny h3 {
@@ -471,7 +472,7 @@ height: 200px;
 	font-family: 'Open Sans', sans-serif;
 }
 #permaculture h2 {
-	  font-family: 'GrandHotelRegular';
+	  font-family: 'Patrick Hand SC';
 		font-size: 40px;
 }
 #permaculture h3 {
