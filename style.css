@@ -142,9 +142,7 @@ border: none !important;
  border: none !important;
 }
 
-.garden {
-  margin-top: 150px;
-}
+
 .about {
   margin-top: 150px;
   margin-bottom: 50px;
@@ -155,8 +153,14 @@ border: none !important;
 .events img {
 
 }
+.garden {
+  margin-top: 150px;
+}
 .garden img {
 height: 400px;
+}
+.garden2 {
+  margin-top: 50px;
 }
 .garden2 img {
   height: 400px;
