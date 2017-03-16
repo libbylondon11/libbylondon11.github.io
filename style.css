@@ -73,9 +73,7 @@ border: none !important;
 	 background-repeat:no-repeat;
 	 border: none !important;
 }
-.garden img {
-  height: 400px;
-}
+
 .marigold {
   margin-top: 150px;
 }
@@ -157,11 +155,11 @@ border: none !important;
 
 }
 .garden {
-  margin-top: 75px;
+  margin-top: 120px;
 }
-.garden img {
+/*.garden img {
 height: 400px;
-}
+}*/
 .garden2 {
   margin-top: 10px;
 }
