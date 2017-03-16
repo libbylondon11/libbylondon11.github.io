@@ -157,9 +157,9 @@ border: none !important;
 .garden {
   margin-top: 120px;
 }
-/*.garden img {
-height: 400px;
-}*/
+.garden img {
+height: 200px;
+}
 .garden2 {
   margin-top: 10px;
 }
@@ -370,7 +370,7 @@ height: 200px;
 }
 #events {
 	background-color: blanchedalmond;
-  height: 50%;
+  height: 25%;
 }
 .fa .fa-github{
   height: 200px;
