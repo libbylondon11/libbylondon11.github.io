@@ -27,9 +27,7 @@ p {
 .row {
 border: none !important;
 }
-#bw .event img {
-height: 200px;
-}
+
 #about {
 	background-image:url("woadCookingFire.JPG");
 	background-size: cover;
