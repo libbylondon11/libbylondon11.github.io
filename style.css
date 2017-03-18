@@ -385,6 +385,9 @@ height: 200px;
 	margin-top: 40px;
 	height: 250px;
 }
+#bw h2 {
+  display: center;
+}
 .tdtTop img {
 	margin-top: 40px;
 	height: 450px;
@@ -415,24 +418,7 @@ height: 200px;
 	float: right;
 	margin-top: 10px;
 }
-#permaculture {
-  margin-top: 10%;
-  margin-bottom: 12%;
-	margin-left: 5%;
-	font-family: 'Open Sans', sans-serif;
-}
-#permaculture h2 {
-	  font-family: 'Patrick Hand SC';
-		font-size: 40px;
-}
-#permaculture h3 {
-  text-align: left;
-  margin-right: 10%;
-}
-#permaculture .col-md-5 img {
-	height: 600px;
-	margin-right: 3%;
-}
+
 .center-block {
     display: block;
     margin-left: auto;
