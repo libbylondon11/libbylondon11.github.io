@@ -145,15 +145,12 @@ border: none !important;
 }
 
 
-.about {
-  margin-top: 50px;
-  margin-bottom: 50px;
-}
 #dyeFarm {
   margin-top: 100px;
 }
-.event{
-  margin-top: 50px;
+
+#bw {
+  margin-top: 100px;
 }
 .event h2 {
   float: right;
@@ -435,4 +432,8 @@ height: 200px;
  }
 .events {
   margin-right: 20px;
+}
+.events p {
+  margin-left: 10px;
+  margin-right: 10px;
 }
