@@ -297,6 +297,10 @@ height: 200px;
 .about p {
   margin-top: 20px;
 }
+.about p, a{
+  margin-left: 10px;
+  margin-right: 10px;
+}
 .home-section h1 {
 	font-family: 'Patrick Hand SC';
 	font-size: 50px;
@@ -370,7 +374,7 @@ height: 200px;
 }
 #events {
 	background-color: white;
-  height: 25%;
+  height: 100px;
 }
 .fa .fa-github{
   height: 200px;
@@ -436,7 +440,7 @@ height: 200px;
 .events {
   margin-right: 20px;
 }
-.events p {
+.events p, a{
   margin-left: 10px;
   margin-right: 10px;
 }
