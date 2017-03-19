@@ -294,6 +294,9 @@ height: 200px;
    font-size: 70px;
    color: white;
 }
+.about p {
+  margin-top: 20px;
+}
 .home-section h1 {
 	font-family: 'Patrick Hand SC';
 	font-size: 50px;
