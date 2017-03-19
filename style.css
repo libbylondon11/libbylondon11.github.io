@@ -146,11 +146,14 @@ border: none !important;
 
 
 .about {
-  margin-top: 150px;
+  margin-top: 50px;
   margin-bottom: 50px;
 }
+#dyeFarm {
+  margin-top: 100px;
+}
 .event{
-  margin-top: 150px;
+  margin-top: 50px;
 }
 .event h2 {
   float: right;
