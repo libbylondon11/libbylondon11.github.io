@@ -61,19 +61,6 @@ border: none !important;
  border: none !important;
 }
 
-.dyeFarm {
-    position: absolute;
-    top: 15px;
-    bottom: 0;
-    left: 15px;
-    right: 0;
-    text-align:center;
-		background-image:url("images/dyefarm/teachingDyeClass copy.jpg");
-		background-size: 100%;
-		background-position:center center;
-	 background-repeat:no-repeat;
-	 border: none !important;
-}
 
 .marigold {
   margin-top: 150px;
