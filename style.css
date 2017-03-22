@@ -137,14 +137,10 @@ border: none !important;
  background-repeat:no-repeat;
  border: none !important;
 }
-
-
 #dyeFarm {
   margin-top: 100px;
 }
-#dyeFarm img {
-  height: 400px;
-}
+
 #bw {
   margin-top: 150px;
 }
