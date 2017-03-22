@@ -40,7 +40,7 @@ border: none !important;
 	color: white;
 }
 #portfolio {
-  margin-top: 50px;
+  margin-top: 100px;
 }
 #portfolio a {
     text-decoration: none !important;
@@ -155,7 +155,7 @@ border: none !important;
  height: 200px;
 }
 #bw {
-  margin-top: 100px;
+  margin-top: 150px;
 }
 .event h2 {
   float: right;
@@ -375,7 +375,7 @@ height: 200px;
 }
 #events {
 	background-color: white;
-  height: 1;
+  height: 100px;
 }
 .fa .fa-github{
   height: 200px;
