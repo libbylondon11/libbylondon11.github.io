@@ -368,12 +368,7 @@ height: 200px;
 	background-color: white;
   height: 100px;
 }
-.fa .fa-github{
-  height: 200px;
-}
-#linkedin {
-  height: 200px;
-}
+
 #contact p {
   text-align: center;
   margin-top: 25px;
@@ -382,18 +377,6 @@ height: 200px;
   font-style: bold;
   color: black;
 }
-.bwTop img {
-	margin-top: 40px;
-	height: 250px;
-}
-
-.tdtTop img {
-	margin-top: 40px;
-	height: 450px;
-}
-.bulkTop img {
-	height: 800px;
-}
 
 .center-block {
     display: block;
@@ -401,10 +384,9 @@ height: 200px;
     margin-right: auto;
  }
  figcaption {
- 	text-align: left;
-  float: left;
+ 	text-align: center;
   font-family: 'Open Sans', sans-serif;
-  font-size: 20px;
+  font-size: 12px;
  }
 .events {
   margin-right: 20px;
