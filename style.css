@@ -66,18 +66,9 @@ border: none !important;
 
 .dyeFarm {
     position: absolute;
-    top: 15px;
-    bottom: 0;
-    left: 15px;
-    right: 0;
-    text-align:center;
 		background-image:url("images/dyefarm/teachingDyeClass copy.jpg");
-		background-size: 100%;
-		background-position:center center;
-	 background-repeat:no-repeat;
-	 border: none !important;
+    height: 300px;
 }
-
 .marigold {
   margin-top: 150px;
 }
@@ -151,8 +142,8 @@ border: none !important;
 #dyeFarm {
   margin-top: 100px;
 }
-#dyeFarm img{
- height: 400px;
+#dyeFarm img {
+  height: 400px;
 }
 #bw {
   margin-top: 150px;
@@ -402,29 +393,6 @@ height: 200px;
 }
 .bulkTop img {
 	height: 800px;
-}
-#ny .col-md-6 img {
-	height: 300px;
-}
-#ny {
-  margin-top: 10%;
-  margin-bottom: 12%;
-	margin-left: 5%;
-	font-family: 'Open Sans', sans-serif;
-}
-#ny h2 {
-	  font-family: 'Patrick Hand SC';
-		font-size: 40px;
-}
-#ny h3 {
-  text-align: left;
-  margin-right: 10%;
-}
-#ny .col-md-5 img {
-	height: 400px;
-	margin-right: 5%;
-	float: right;
-	margin-top: 10px;
 }
 
 .center-block {
