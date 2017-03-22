@@ -39,6 +39,9 @@ border: none !important;
 	font-size: 18px;
 	color: white;
 }
+#portfolio {
+  margin-top: 50px;
+}
 #portfolio a {
     text-decoration: none !important;
 		border: none !important;
@@ -61,6 +64,19 @@ border: none !important;
  border: none !important;
 }
 
+.dyeFarm {
+    position: absolute;
+    top: 15px;
+    bottom: 0;
+    left: 15px;
+    right: 0;
+    text-align:center;
+		background-image:url("images/dyefarm/teachingDyeClass copy.jpg");
+		background-size: 100%;
+		background-position:center center;
+	 background-repeat:no-repeat;
+	 border: none !important;
+}
 
 .marigold {
   margin-top: 150px;
@@ -284,10 +300,6 @@ height: 200px;
 .about p {
   margin-top: 20px;
 }
-.about p, a{
-  margin-left: 10px;
-  margin-right: 10px;
-}
 .home-section h1 {
 	font-family: 'Patrick Hand SC';
 	font-size: 50px;
@@ -361,7 +373,7 @@ height: 200px;
 }
 #events {
 	background-color: white;
-  height: 100px;
+  height: 1;
 }
 .fa .fa-github{
   height: 200px;
