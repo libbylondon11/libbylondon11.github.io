@@ -151,7 +151,9 @@ border: none !important;
 #dyeFarm {
   margin-top: 100px;
 }
-
+#dyeFarm img{
+ height: 200px;
+}
 #bw {
   margin-top: 100px;
 }
