@@ -2,6 +2,9 @@
 .navbar-default {
   background-color: #f8f8f8;
 }
+.navbar-header img{
+display: inline-block;
+}
 .thumbnail {
     position: absolute;
     top: 15px;
