@@ -67,9 +67,9 @@ border: none !important;
 #bw{
   margin-bottom: 20px;
 }
-#portfolio .container {
-  margin-top: 2px;
-  margin-bottom: 2px;
+#portfolio .row {
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 #portfolio h3 {
   text-align: center;
