@@ -12,7 +12,7 @@
 footer {
   text-align: center;
   font-family: 'Open Sans', sans-serif;
-  font-size: 16px;
+  font-size: 12px;
 }
 .thumbnail {
     position: absolute;
@@ -62,7 +62,9 @@ border: none !important;
     text-decoration: none !important;
 		border: none !important;
 		font-size: 40px;
-
+}
+#portfolio h2 {
+  text-align: center;
 }
 /*printmaking, art shanty, eco-printing, dye farm, natural dye, papermaking*/
 .naturalDye {
