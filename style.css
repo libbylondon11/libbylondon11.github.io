@@ -149,7 +149,12 @@ border: none !important;
 }
 #woadDyeid h2 {
   font-family: 'Patrick Hand SC';
-  font-size: 22px;
+  font-size: 28px;
+  text-align: center;
+}
+#dyeFarm h2 {
+  font-family: 'Patrick Hand SC';
+  font-size: 28px;
   text-align: center;
 }
 .event h2 {
