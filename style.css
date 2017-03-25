@@ -160,6 +160,12 @@ border: none !important;
 .event h2 {
   float: right;
 }
+.event {
+  margin-top: 150px;
+}
+.about {
+  margin-top: 150px;
+}
 .garden {
   margin-top: 200px;
 }
