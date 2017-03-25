@@ -4,6 +4,7 @@
 }
 .navbar-header img{
 display: inline-block;
+height: 20px;
 }
 .thumbnail {
     position: absolute;
