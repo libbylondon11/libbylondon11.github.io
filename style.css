@@ -7,11 +7,12 @@
 }
 .navbar-nav a {
    font-size: 14px;
+   margin-top: 10px;
 }
 footer {
   text-align: center;
-  font-family: 'Patrick Hand SC';
-  font-size: 14px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
 }
 .thumbnail {
     position: absolute;
@@ -41,6 +42,9 @@ border: none !important;
   margin-bottom: 5px;
   margin-left: 10px;
   margin-right: 10px;
+}
+.farm p {
+  margin-top: 20px;
 }
 #about {
 	background-image:url("woadCookingFire.JPG");
