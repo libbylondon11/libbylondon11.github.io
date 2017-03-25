@@ -64,9 +64,9 @@ border: none !important;
 		border: none !important;
 		font-size: 40px;
 }
-#portfolio h2 {
+#portfolio h3 {
   text-align: center;
-  font-family: font-family: 'Patrick Hand SC';
+  font-family: 'Patrick Hand SC';
 }
 /*printmaking, art shanty, eco-printing, dye farm, natural dye, papermaking*/
 .naturalDye {
@@ -328,7 +328,8 @@ height: 200px;
    color: white;
 }
 .about p {
-  margin-top: 20px;
+  margin-top: 30px;
+  text-align: center;
 }
 .woadClass p {
   margin-top: 50px;
