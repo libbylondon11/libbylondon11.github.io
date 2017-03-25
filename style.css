@@ -25,7 +25,10 @@ p {
 .row {
 border: none !important;
 }
-
+.farm {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
 #about {
 	background-image:url("woadCookingFire.JPG");
 	background-size: cover;
@@ -139,8 +142,13 @@ border: none !important;
 #dyeFarm p {
   text-align: center;
 }
-#bw {
+#woadDyeid {
   margin-top: 150px;
+}
+#woadDyeid h2 {
+  font-family: 'Patrick Hand SC';
+  font-size: 18px;
+  text-align: center;
 }
 .event h2 {
   float: right;
@@ -288,9 +296,10 @@ height: 200px;
   margin-top: 20px;
 }
 .woadClass p {
-  margin-top: 20px;
+  margin-top: 50px;
   font-size: 16px;
   text-align: center;
+
 }
 .home-section h1 {
 	font-family: 'Patrick Hand SC';
