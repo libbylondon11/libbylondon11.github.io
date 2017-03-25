@@ -152,9 +152,12 @@ border: none !important;
   font-size: 28px;
   text-align: center;
 }
-#dyeFarm h2, p, ul {
+#dyeFarm h2 {
   font-family: 'Patrick Hand SC';
   font-size: 28px;
+  text-align: center;
+}
+#dyeFarm p {
   text-align: center;
 }
 .event h2 {
