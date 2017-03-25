@@ -136,7 +136,9 @@ border: none !important;
 #dyeFarm {
   margin-top: 100px;
 }
-
+#dyeFarm p {
+  text-align: center;
+}
 #bw {
   margin-top: 150px;
 }
@@ -285,7 +287,7 @@ height: 200px;
 .about p {
   margin-top: 20px;
 }
-.woad p {
+.woadClass p {
   margin-top: 20px;
   font-size: 16px;
   text-align: center;
