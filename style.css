@@ -2,7 +2,14 @@
 .navbar-default {
   background-color: #f8f8f8;
 }
-
+.navbar-custom {
+  height: 100px;
+}
+footer {
+  text-align: center;
+  font-family: 'Patrick Hand SC';
+  font-size: 12px;
+}
 .thumbnail {
     position: absolute;
     top: 15px;
