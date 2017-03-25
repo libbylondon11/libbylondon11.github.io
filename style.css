@@ -1,11 +1,10 @@
 
 .navbar-custom {
-  height: 100px;
+  height: 100%;
   background-color: #f8f8f8;
 }
 .navbar-header img {
   margin-top: 2px;
-  height: 100px;
 }
 footer {
   text-align: center;
