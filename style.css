@@ -2,10 +2,7 @@
 .navbar-default {
   background-color: #f8f8f8;
 }
-.navbar-header {
-display: inline-block;
-height: 50px;
-}
+
 .thumbnail {
     position: absolute;
     top: 15px;
