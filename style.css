@@ -64,12 +64,12 @@ border: none !important;
 		border: none !important;
 		font-size: 40px;
 }
-#portfolio {
-  margin-top: 20px;
+#bw{
+  margin-bottom: 20px;
 }
 #portfolio .container {
-  margin-top: 2px;
-  margin-bottom: 2px;
+  margin-top: -2px;
+  margin-bottom: -2px;
 }
 #portfolio h3 {
   text-align: center;
