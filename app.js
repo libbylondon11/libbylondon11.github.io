@@ -94,10 +94,13 @@ $(".glyphicon-plus").click( function() {
       $('#dyed').slideToggle('slow');
 })
 });
-$('.thumbnail').click(function(){
-  	$('.modal-body').empty();
-  	var title = $(this).attr("title");
-  	$('.modal-title').html(title);
-  	$(this.innerHTML).appendTo('.modal-body');
-  	$('#myModal').modal({show:true});
+/* show lightbox when clicking a thumbnail */
+$('a.thumb').click(function(event){
+  event.preventDefault();
+  var content = $('.modal-body');
+  content.empty();
+    var title = $(this).attr("title");
+    $('.modal-title').html(title);
+    content.html($(this).html());
+    $(".modal-profile").modal({show:true});
 });

@@ -1,3 +1,11 @@
+#profile-grid { overflow: auto; white-space: normal; }
+#profile-grid .profile { padding-bottom: 40px; }
+#profile-grid .panel { padding: 0 }
+#profile-grid .panel-body { padding: 15px }
+#profile-grid .profile-name { font-weight: bold; }
+#profile-grid .thumbnail {margin-bottom:6px;}
+#profile-grid .panel-thumbnail { overflow: hidden; }
+#profile-grid .img-rounded { border-radius: 4px 4px 0 0;}
 
 .navbar-custom {
   background-color: #f8f8f8;
@@ -433,5 +441,3 @@ height: 200px;
   margin-left: 10px;
   margin-right: 10px;
 }
-.modal {width:600px;}
-.thumbnail img {width:120px;}
