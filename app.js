@@ -93,8 +93,6 @@ $(".glyphicon-plus").click( function() {
       $('#dyed2').slideToggle('slow');
       $('#dyed').slideToggle('slow');
 })
-});
-/* show lightbox when clicking a thumbnail */
 $('a.thumb').click(function(event){
   event.preventDefault();
   var content = $('.modal-body');
@@ -104,3 +102,5 @@ $('a.thumb').click(function(event){
     content.html($(this).html());
     $(".modal-profile").modal({show:true});
 });
+});
+/* show lightbox when clicking a thumbnail */
