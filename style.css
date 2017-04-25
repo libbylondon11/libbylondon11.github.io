@@ -433,3 +433,5 @@ height: 200px;
   margin-left: 10px;
   margin-right: 10px;
 }
+.modal {width:600px;}
+.thumbnail img {width:120px;}
