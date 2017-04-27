@@ -8,7 +8,9 @@
 #profile-grid .panel-thumbnail { overflow: hidden; }
 #profile-grid .img-rounded { border-radius: 4px 4px 0 0;
 }
-
+#profile-grid .panel-default {
+  border-color: #ffffff;
+}
 
 .navbar-custom {
   background-color: #f8f8f8;
